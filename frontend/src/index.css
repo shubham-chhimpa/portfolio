@@ -1,0 +1,17 @@
+/* body {
+    margin: 0px;
+  }
+   */
+  .vertical-timeline-element--work .vertical-timeline-element-content .vertical-timeline-element-date, .vertical-timeline-element-content p 
+{
+  color: coral
+}
+  .vertical-timeline-element--education .vertical-timeline-element-content .vertical-timeline-element-date, .vertical-timeline-element-content p 
+{
+  color: coral 
+}
+
+.my-responsive-image {
+  position: relative;
+  max-width: 100%;
+}
